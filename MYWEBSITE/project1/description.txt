@@ -1,0 +1,22 @@
+My name：HONG YANG
+
+Partner's name: Sindhu
+
+Description I received: 
+it had pink hat ,dress the face had a basic smile face with a small round nose yellow head
+
+
+MY interpretation of the image:
+My partner described the object in a straightforward and vivid way that made it easy for me to visualise it. She emphasised the pink hat and dress, and mentioned that the face had a simple smile, the nose was small and round, and the head was yellow. From this description, I imagined a simple geometric figure. I used basic shapes like ovals and rectangles to show the character’s features.
+
+
+The depiction of the image using code:
+By using basic geometric shapes, I assembled this image. The skirt is a simple triangle, the hat, face, limbs and features are put together using rounded rectangles and the mouth is a semi-circle. I also learnt how to draw using π which was great fun.After I drew it, I wanted to make it more interesting, so I tried to add winking eyes
+
+
+The differences in interpretation at all stages of the assignment:
+//There were a few times when I changed my interpretation. At first, even though I used simple shapes, they were still too complex for me to create. Later, I simplified and made the figure more abstract and geometric.
+
+Reflection：
+This was my first time working with p5.js, and it was quite a learning experience for me. One of the biggest challenges I had was getting the shapes to be in the right position. Each shape in p5.js has its own way to position, which made it very hard to put them in the correct place, especially when I used rotation. I kept adjusting the coordinates and tried different values to make everything look right. Rotating shapes was even more difficult because the reference point of the shape changed, and it was harder to control its position on the canvas.
+Overall, this assignment was a good introduction to p5.js, and it helped me learn how to turn a verbal description into a visual code. I also liked thinking about how to break down drawings into simple shapes and actions.

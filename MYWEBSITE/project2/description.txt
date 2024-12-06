@@ -1,0 +1,18 @@
+
+
+My initial goal was to create a dynamic face that would allow the user to react to mouse movements and clicks. I used random() to change colours and mouseX and mouseY to control the size, shape and position of facial features such as eyes, nose and mouth.
+
+Step 1: Initial Sketch
+In the initial design, I drew a basic sketch of a face, one sad and long and one happy and slightly perverted. I wanted this face to be flexible and adjustable based on user input, so I envisioned the eyes getting bigger or smaller as the mouse moved horizontally, and the face and nose moving with vertical movement.
+
+Step 2: Coding the face
+First, I assigned initial values for the face colour and nose colour. Then, I use the map() function to connect mouse X and mouse Y to different attributes of the face, such as eye size, face width and height,etc. This way, the face can change interactively!
+For extra fun, I used a mousePressed() function that randomly changes the colour of the face and nose whenever the user clicks, but the random values need to be debugged or the colours will be ugly!
+
+Step 3: Refinement
+Through testing, I adjusted the range of each feature so that the face stretching, the eyes getting bigger, or the corners of the mouth curving were all within a moderate range
+
+
+Reflection.
+Completing this task made me realise that the curvature of the mouth is very sensitive to tiny adjustments and I found it interesting that the face on the left side of the mouse would be sad (curved down, eyes smaller, face longer) and the face on the right side of the mouse would be happy (curved up, eyes bigger, face shorter).
+Each click produces a different coloured face, but you need to control the random values, otherwise some colours will be ugly!
