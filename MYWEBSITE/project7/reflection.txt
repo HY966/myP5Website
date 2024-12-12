@@ -1,0 +1,3 @@
+I created a game set in protagonist's nightmares. The theme centers on the progtagonist using their voice to defend the dream word and eliminate the encroaching nightmare.
+The core gameplay machainic involves controlling protagonist's singing by pressing the mouse.With each press, they emit a sound wave that wards off 
+the nightmares.If protagonist fails to keep nightmares at bay, the will infiltrate the dream and turn it into a nightmare.

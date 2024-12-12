@@ -1,0 +1,14 @@
+Reflections
+
+My experimental clocks represent an unconventional way of keeping time that differs from traditional hours and minutes. They represent time through visual elements, which is a completely new development for me. The clocks have changed the way I view time, transforming it from a stereotypical quantitative approach to a more fluid and emotional one. By associating time with emotional and abstract forms, watches are less precise and offer a more experiential sense of time passing.
+
+Design Process
+First, I considered two possible ways of representing time:
+
+	1. Emotion-based clock: Inspired by the changing moods of the day, this design represents different emotions at different times of the day and indicates the time through changing color patterns and expressions.
+	2 Growth Shaped Clock: This clock represents time in a geometric growth pattern, with each second adding a layer to the growth pattern until the end of the day.
+
+After thinking about these two kinds of clocks, I chose emotional clocks. These clocks have a more direct relationship to the way I experience time on a daily basis (sometimes I feel quickly tense, sometimes I feel slowly relaxed). These clocks allow me to connect time to a more intuitive and personal experience.
+At first, I was going to use mouse clicks to keep track of daily moods, but I found that the visual effect wasn't good enough. After switching to randomized values, the overall effect has improved. The fluctuating lines now visually represent changes over time.
+
+At first the lines were sharp, with the help of the AI I used Bezier curves and the lines became smoother, but this method was so complicated that I couldn't understand it even after explaining it.

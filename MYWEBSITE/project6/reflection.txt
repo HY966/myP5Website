@@ -1,0 +1,13 @@
+Data Discussion - Self-Portrait
+
+Description.
+In this project, I monitored daily moods for a period of seven days. Whenever there was a noticeable change in mood, it was recorded in a numbered list, and the data was then visualized in a p5.js sketch. The sketch displays mood values as dynamic lines, with the length of each line reflecting the intensity of the day's mood, and the emoji in the center of the canvas representing the current average mood.
+
+How to view the portrait
+The length of the lines reflects the intensity of the day's mood, and the emoji in the center of the canvas represents the day's mood. High values show smiling emoji, medium values show neutral emoji, and low values show sad emoji.
+
+Design Process
+First, the emotional values of the days were collected and converted into a matrix. The lines were animated to create a sense of fluctuation and change corresponding to the ebb and flow of emotions.
+
+Self-control reflection:
+Through this project, I became more aware of my reactions to different daily events.

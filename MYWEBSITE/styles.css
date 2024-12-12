@@ -26,11 +26,13 @@ h2 {
     margin-bottom: 10px;
     text-align: center;
 }
-
 p {
     font-size: 1rem;
     color: #4a5568;
     text-align: center;
+    width: 80%; /* 设置宽度为80% */
+    max-width: 600px; /* 限制最大宽度为600px */
+    margin: 0 auto; /* 水平居中对齐 */
 }
 
 /* 卡片布局 */
@@ -126,4 +128,49 @@ canvas {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+/* 项目按钮样式 */
+.project-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.project-buttons button {
+    background-color: #1d4ed8;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.project-buttons button:hover {
+    background-color: #1e3a8a;
+    transform: translateY(-3px);
+}
+
+.project-buttons button:active {
+    transform: translateY(0);
+}
+
+/* More 按钮样式 */
+.more-button {
+    font-size: 1rem;
+    color: #1d4ed8;
+    text-decoration: underline;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px 0;
+    transition: color 0.3s ease;
+}
+
+.more-button:hover {
+    color: #1e3a8a;
+    text-decoration: none;
 }

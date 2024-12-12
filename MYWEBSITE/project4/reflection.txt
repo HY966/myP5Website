@@ -1,0 +1,17 @@
+In this draft from p5.js, I created a cat with moving eyes and tail, and used loops and Bezier curves to make it look more dynamic and playful. The cat's eyes and tail are controlled by sine functions, creating a smooth and natural looking animation.
+
+Partner Names
+Amna Zaidi, sinkrunous and Cindy
+
+Design Process
+
+	1. Inspiration: We wanted to create a simple, dynamic character. Cats are a good theme because they can move their tails and eyes, giving them a lively personality.
+	2. Sketch: Our goal was to make the cat cartoonish, but slightly abstract.
+	3. Technical approach:
+	- We used for-loop and Bézier curves to create the movement of the tail. By using loops, we were able to draw a series of connected curves that move gently through each frame, simulating the action of flapping wings.
+	- For the eye animation, we used the sine function to control the size of the pupil, causing it to contract and open rhythmically. This makes the cat's face expressive, full of curiosity and surprise.
+
+
+Reflection on the assignment
+
+Throughout the assignment, we explored the use of Bézier curves, which, although challenging at first, turned out to be an effective way to simulate smooth, organic movements. They also gained confidence in animating with sine functions and realized that they could add subtle but effective dynamic elements to their sketches. The end result is a playful, expressive cat that feels more interactive and engaging because of the moving parts.
